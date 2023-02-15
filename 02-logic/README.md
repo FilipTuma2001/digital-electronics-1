@@ -6,11 +6,11 @@
 
    Greater than:
 
-   ![K-maps]([images/kmap_empty.png](https://github.com/FilipTuma2001/digital-electronics-1/blob/main/02-logic/kmap_B_A-1.jpg))
+   ![K-maps](https://github.com/FilipTuma2001/digital-electronics-1/blob/main/02-logic/kmap_B_A-1.jpg)
 
    Less than:
 
-   ![K-maps]([images/kmap_empty.png](https://github.com/FilipTuma2001/digital-electronics-1/blob/main/02-logic/kmap_B_A-2.jpg))
+   ![K-maps](https://github.com/FilipTuma2001/digital-electronics-1/blob/main/02-logic/kmap_B_A-2.jpg)
 
 2. Mark the largest possible implicants in the K-map and according to them, write the equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
