@@ -5,6 +5,9 @@
 1. Listing of VHDL architecture from source file `mux_3bit_4to1.vhd`. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
 ```vhdl
+architecture Behavioral of mux_3bit_4to1 is
+begin
+
 with sel_i select
 	f_o <= a_i when "00",
                b_i when "01",
