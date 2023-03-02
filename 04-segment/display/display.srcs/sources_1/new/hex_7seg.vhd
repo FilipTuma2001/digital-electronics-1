@@ -27,6 +27,7 @@ entity hex_7seg is
     blank : in    std_logic;                    --! Display is clear if blank = 1
     hex   : in    std_logic_vector(3 downto 0); --! Binary representation of one hexadecimal symbol
     seg   : out   std_logic_vector(6 downto 0)  --! Seven active-low segments in the order: a, b, ..., g
+--    led   : out   std_logic_vector(3 downto 0)
   );
 end entity hex_7seg;
 

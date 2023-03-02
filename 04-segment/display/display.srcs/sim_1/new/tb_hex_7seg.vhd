@@ -32,6 +32,7 @@ architecture testbench of tb_hex_7seg is
   signal sig_blank : std_logic;
   signal sig_hex   : std_logic_vector(3 downto 0);
   signal sig_seg   : std_logic_vector(6 downto 0);
+--  signal sig_led   : std_logic_vector(3 downto 0);
 
 begin
 
@@ -43,6 +44,11 @@ begin
       hex   => sig_hex,
       seg   => sig_seg
     );
+    
+--  uut_hex_led : entity work.top
+--    port map (
+---      led  => sig_led
+--    );  
 
   --------------------------------------------------------
   -- Data generation process

@@ -70,6 +70,10 @@ begin
       seg(2) => CE,
       seg(1) => CF,
       seg(0) => CG
+--      LED(4) => LED(4),
+ --     LED(5) => LED(5),
+ --     LED(6) => LED(6),
+ --     LED(7) => LED(7)
     );
 
   -- Connect one common anode to 3.3V
