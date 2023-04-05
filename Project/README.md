@@ -1,4 +1,4 @@
-# VHDL Project - Vysílač a přijímač Morseova kódu
+# VHDL Projekt - Vysílač a přijímač Morseova kódu
 
 ### Členové týmu
 * Filip Tůma (230896) - šéf týmu, nejlepší
